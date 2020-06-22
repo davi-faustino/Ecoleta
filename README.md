@@ -28,5 +28,6 @@ Caso queira baixar o projeto basta entrar na pasta [**web**](https://github.com/
 
 ## App Ecoleta
 [**Página do projeto no Expo**](https://expo.io/@davi-faustino/dg-ecoleta)
+
 Caso queira baixar o projeto basta entrar na pasta [**mobile**](https://github.com/davi-faustino/Ecoleta/tree/master/mobile) e seguir os passos para instalação.
 ![mobile-home](https://github.com/davi-faustino/Ecoleta/blob/master/assets/mobile-home.jpg?raw=true)
