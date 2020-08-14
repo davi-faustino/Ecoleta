@@ -13,12 +13,12 @@
 **Ecoleta** é um projeto que tem como finalidade ajudar pessoas que tenham o interesse de descartar resíduos da maneira correta para que sejam reciclados e reaproveitados.
 Este projeto foi desenvolvido durante a Next Level Weak 1 realizada pela [**Rocketseat**](https://rocketseat.com.br/), que tinha como finalidade apresentar a stack **ReactJs**, **React Native** e **NodeJs**.
 
-# Teste online
-[**Site**](https://web.dgspace.com.br/)
+# Teste online [ Deprecated ]
+[~~**Site**~~](https://web.dgspace.com.br/)
 
-[**App pelo appetize**](https://expo.io/appetize-simulator?url=https://expo.io/@davi-faustino/dg-ecoleta)
+[~~**App pelo appetize**~~](https://expo.io/appetize-simulator?url=https://expo.io/@davi-faustino/dg-ecoleta)
 
-**App pelo Expo**
+~~**App pelo Expo**~~
 
 ![QR Code App](https://github.com/davi-faustino/Ecoleta/blob/master/assets/qrCodeApp.png?raw=true)
 
