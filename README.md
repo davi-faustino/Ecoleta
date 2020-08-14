@@ -16,9 +16,9 @@ Este projeto foi desenvolvido durante a Next Level Weak 1 realizada pela [**Rock
 # Teste online [ Deprecated ]
 [~~**Site**~~](https://web.dgspace.com.br/)
 
-[~~**App pelo appetize**~~](https://expo.io/appetize-simulator?url=https://expo.io/@davi-faustino/dg-ecoleta)
+[**App pelo appetize**](https://expo.io/appetize-simulator?url=https://expo.io/@davi-faustino/dg-ecoleta)
 
-~~**App pelo Expo**~~
+**App pelo Expo**
 
 ![QR Code App](https://github.com/davi-faustino/Ecoleta/blob/master/assets/qrCodeApp.png?raw=true)
 
